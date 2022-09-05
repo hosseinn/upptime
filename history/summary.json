@@ -184,7 +184,7 @@
     "url": "https://ci.libreoffice.org/",
     "icon": "https://favicons.githubusercontent.com/ci.libreoffice.org",
     "slug": "ci-jenkins",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -192,7 +192,7 @@
     "uptimeYear": "100.00%",
     "time": 3336,
     "timeDay": 1417,
-    "timeWeek": 4704,
+    "timeWeek": 5237,
     "timeMonth": 3336,
     "timeYear": 3336,
     "dailyMinutesDown": {}
