@@ -166,7 +166,7 @@
     "url": "https://bugs.documentfoundation.org/",
     "icon": "https://favicons.githubusercontent.com/bugs.documentfoundation.org",
     "slug": "bugzilla",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -408,7 +408,7 @@
     "uptimeYear": "100.00%",
     "time": 968,
     "timeDay": 703,
-    "timeWeek": 864,
+    "timeWeek": 876,
     "timeMonth": 968,
     "timeYear": 968,
     "dailyMinutesDown": {}
