@@ -13,7 +13,7 @@
     "time": 1678,
     "timeDay": 1060,
     "timeWeek": 1210,
-    "timeMonth": 1140,
+    "timeMonth": 1131,
     "timeYear": 1678,
     "dailyMinutesDown": {}
   },
@@ -94,7 +94,7 @@
     "url": "https://downloadarchive.documentfoundation.org/",
     "icon": "https://icons.duckduckgo.com/ip3/downloadarchive.documentfoundation.org.ico",
     "slug": "download-archives",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 1211,
     "timeDay": 769,
-    "timeWeek": 773,
+    "timeWeek": 766,
     "timeMonth": 1470,
     "timeYear": 1211,
     "dailyMinutesDown": {}
@@ -139,7 +139,7 @@
     "time": 1059,
     "timeDay": 1782,
     "timeWeek": 993,
-    "timeMonth": 1145,
+    "timeMonth": 1154,
     "timeYear": 1059,
     "dailyMinutesDown": {}
   },
@@ -157,7 +157,7 @@
     "time": 1509,
     "timeDay": 1566,
     "timeWeek": 1612,
-    "timeMonth": 1558,
+    "timeMonth": 1565,
     "timeYear": 1509,
     "dailyMinutesDown": {}
   },
@@ -175,7 +175,7 @@
     "time": 2075,
     "timeDay": 1815,
     "timeWeek": 1816,
-    "timeMonth": 2306,
+    "timeMonth": 2318,
     "timeYear": 2075,
     "dailyMinutesDown": {}
   },
@@ -247,7 +247,7 @@
     "time": 776,
     "timeDay": 919,
     "timeWeek": 973,
-    "timeMonth": 772,
+    "timeMonth": 774,
     "timeYear": 776,
     "dailyMinutesDown": {}
   },
@@ -337,7 +337,7 @@
     "time": 703,
     "timeDay": 1581,
     "timeWeek": 878,
-    "timeMonth": 731,
+    "timeMonth": 739,
     "timeYear": 703,
     "dailyMinutesDown": {}
   },
@@ -409,7 +409,7 @@
     "time": 920,
     "timeDay": 982,
     "timeWeek": 904,
-    "timeMonth": 888,
+    "timeMonth": 881,
     "timeYear": 920,
     "dailyMinutesDown": {}
   },
@@ -463,7 +463,7 @@
     "time": 875,
     "timeDay": 934,
     "timeWeek": 901,
-    "timeMonth": 903,
+    "timeMonth": 822,
     "timeYear": 875,
     "dailyMinutesDown": {}
   }
