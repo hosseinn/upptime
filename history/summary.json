@@ -166,7 +166,7 @@
     "url": "https://bugs.documentfoundation.org/",
     "icon": "https://icons.duckduckgo.com/ip3/bugs.documentfoundation.org.ico",
     "slug": "bugzilla",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -246,7 +246,7 @@
     "uptimeYear": "100.00%",
     "time": 769,
     "timeDay": 893,
-    "timeWeek": 671,
+    "timeWeek": 696,
     "timeMonth": 814,
     "timeYear": 769,
     "dailyMinutesDown": {}
@@ -336,7 +336,7 @@
     "uptimeYear": "100.00%",
     "time": 702,
     "timeDay": 903,
-    "timeWeek": 688,
+    "timeWeek": 715,
     "timeMonth": 748,
     "timeYear": 702,
     "dailyMinutesDown": {}
@@ -390,7 +390,7 @@
     "uptimeYear": "100.00%",
     "time": 1329,
     "timeDay": 1401,
-    "timeWeek": 1077,
+    "timeWeek": 1103,
     "timeMonth": 976,
     "timeYear": 1329,
     "dailyMinutesDown": {}
