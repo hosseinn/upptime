@@ -67,7 +67,7 @@
     "time": 2029,
     "timeDay": 1624,
     "timeWeek": 2217,
-    "timeMonth": 2052,
+    "timeMonth": 2085,
     "timeYear": 2029,
     "dailyMinutesDown": {}
   },
@@ -166,7 +166,7 @@
     "url": "https://bugs.documentfoundation.org/",
     "icon": "https://icons.duckduckgo.com/ip3/bugs.documentfoundation.org.ico",
     "slug": "bugzilla",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -174,7 +174,7 @@
     "uptimeYear": "100.00%",
     "time": 2030,
     "timeDay": 1694,
-    "timeWeek": 1945,
+    "timeWeek": 1970,
     "timeMonth": 1873,
     "timeYear": 2030,
     "dailyMinutesDown": {}
@@ -283,7 +283,7 @@
     "time": 617,
     "timeDay": 410,
     "timeWeek": 602,
-    "timeMonth": 613,
+    "timeMonth": 620,
     "timeYear": 617,
     "dailyMinutesDown": {}
   },
