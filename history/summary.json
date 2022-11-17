@@ -274,7 +274,7 @@
     "url": "https://gerrit.libreoffice.org/",
     "icon": "https://icons.duckduckgo.com/ip3/gerrit.libreoffice.org.ico",
     "slug": "gerrit-code-review",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -426,7 +426,7 @@
     "uptimeYear": "100.00%",
     "time": 609,
     "timeDay": 444,
-    "timeWeek": 668,
+    "timeWeek": 689,
     "timeMonth": 643,
     "timeYear": 609,
     "dailyMinutesDown": {}
