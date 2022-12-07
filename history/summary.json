@@ -454,17 +454,17 @@
     "url": "https://auth.documentfoundation.org/",
     "icon": "https://icons.duckduckgo.com/ip3/auth.documentfoundation.org.ico",
     "slug": "authentication-portal",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 893,
-    "timeDay": 1321,
-    "timeWeek": 1071,
-    "timeMonth": 918,
-    "timeYear": 893,
+    "time": 889,
+    "timeDay": 1053,
+    "timeWeek": 1009,
+    "timeMonth": 906,
+    "timeYear": 889,
     "dailyMinutesDown": {}
   }
 ]
