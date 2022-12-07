@@ -148,7 +148,7 @@
     "url": "https://wiki.documentfoundation.org/",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.documentfoundation.org.ico",
     "slug": "tdf-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -175,7 +175,7 @@
     "time": 2000,
     "timeDay": 1005,
     "timeWeek": 1726,
-    "timeMonth": 1913,
+    "timeMonth": 1918,
     "timeYear": 2000,
     "dailyMinutesDown": {}
   },
