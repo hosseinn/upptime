@@ -1,7 +1,7 @@
 url: https://ci.libreoffice.org/
-status: up
-code: 200
-responseTime: 1692
-lastUpdated: 2023-01-02T01:43:31.198Z
+status: down
+code: 503
+responseTime: 1007
+lastUpdated: 2023-01-02T13:03:18.153Z
 startTime: Sat Aug 27 2022 03:44:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
