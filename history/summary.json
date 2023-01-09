@@ -4,7 +4,7 @@
     "url": "https://www.libreoffice.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.libreoffice.org.ico",
     "slug": "libre-office-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -192,7 +192,7 @@
     "uptimeYear": "100.00%",
     "time": 1786,
     "timeDay": 2014,
-    "timeWeek": 2207,
+    "timeWeek": 2241,
     "timeMonth": 1751,
     "timeYear": 1786,
     "dailyMinutesDown": {}
