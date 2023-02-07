@@ -184,7 +184,7 @@
     "url": "https://ci.libreoffice.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ci.libreoffice.org.ico",
     "slug": "ci-jenkins",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -319,7 +319,7 @@
     "time": 959,
     "timeDay": 852,
     "timeWeek": 918,
-    "timeMonth": 1535,
+    "timeMonth": 1182,
     "timeYear": 959,
     "dailyMinutesDown": {}
   },
