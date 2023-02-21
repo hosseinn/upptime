@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 1293,
     "timeDay": 1066,
-    "timeWeek": 923,
+    "timeWeek": 947,
     "timeMonth": 2004,
     "timeYear": 1293,
     "dailyMinutesDown": {}
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 3112,
     "timeDay": 1767,
-    "timeWeek": 7649,
+    "timeWeek": 1036,
     "timeMonth": 6922,
     "timeYear": 3112,
     "dailyMinutesDown": {}
@@ -238,7 +238,7 @@
     "url": "https://dev-downloads.libreoffice.org/",
     "icon": "https://icons.duckduckgo.com/ip3/dev-downloads.libreoffice.org.ico",
     "slug": "dev-downloads",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
