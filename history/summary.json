@@ -13,7 +13,7 @@
     "time": 1531,
     "timeDay": 3263,
     "timeWeek": 1704,
-    "timeMonth": 2081,
+    "timeMonth": 1596,
     "timeYear": 1531,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 1133,
     "timeDay": 2283,
     "timeWeek": 1204,
-    "timeMonth": 1035,
+    "timeMonth": 1042,
     "timeYear": 1133,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 1500,
     "timeDay": 1477,
     "timeWeek": 1313,
-    "timeMonth": 2662,
+    "timeMonth": 1262,
     "timeYear": 1500,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 1289,
     "timeDay": 1059,
     "timeWeek": 1019,
-    "timeMonth": 2038,
+    "timeMonth": 2071,
     "timeYear": 1289,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 3073,
     "timeDay": 673,
     "timeWeek": 1082,
-    "timeMonth": 6870,
+    "timeMonth": 6936,
     "timeYear": 3073,
     "dailyMinutesDown": {}
   },
@@ -121,7 +121,7 @@
     "time": 1454,
     "timeDay": 947,
     "timeWeek": 1103,
-    "timeMonth": 1370,
+    "timeMonth": 1244,
     "timeYear": 1454,
     "dailyMinutesDown": {}
   },
@@ -175,7 +175,7 @@
     "time": 1646,
     "timeDay": 728,
     "timeWeek": 1092,
-    "timeMonth": 1301,
+    "timeMonth": 1039,
     "timeYear": 1646,
     "dailyMinutesDown": {}
   },
@@ -184,17 +184,17 @@
     "url": "https://ci.libreoffice.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ci.libreoffice.org.ico",
     "slug": "ci-jenkins",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1803,
-    "timeDay": 4185,
-    "timeWeek": 2217,
-    "timeMonth": 2007,
-    "timeYear": 1803,
+    "time": 1799,
+    "timeDay": 2536,
+    "timeWeek": 2051,
+    "timeMonth": 1989,
+    "timeYear": 1799,
     "dailyMinutesDown": {}
   },
   {
@@ -229,7 +229,7 @@
     "time": 812,
     "timeDay": 673,
     "timeWeek": 832,
-    "timeMonth": 972,
+    "timeMonth": 803,
     "timeYear": 812,
     "dailyMinutesDown": {}
   },
@@ -247,7 +247,7 @@
     "time": 884,
     "timeDay": 590,
     "timeWeek": 731,
-    "timeMonth": 1449,
+    "timeMonth": 1322,
     "timeYear": 884,
     "dailyMinutesDown": {}
   },
@@ -265,7 +265,7 @@
     "time": 764,
     "timeDay": 2420,
     "timeWeek": 991,
-    "timeMonth": 869,
+    "timeMonth": 844,
     "timeYear": 764,
     "dailyMinutesDown": {}
   },
@@ -283,7 +283,7 @@
     "time": 628,
     "timeDay": 607,
     "timeWeek": 673,
-    "timeMonth": 685,
+    "timeMonth": 689,
     "timeYear": 628,
     "dailyMinutesDown": {}
   },
@@ -301,7 +301,7 @@
     "time": 896,
     "timeDay": 574,
     "timeWeek": 749,
-    "timeMonth": 952,
+    "timeMonth": 802,
     "timeYear": 896,
     "dailyMinutesDown": {}
   },
@@ -319,7 +319,7 @@
     "time": 957,
     "timeDay": 726,
     "timeWeek": 835,
-    "timeMonth": 1029,
+    "timeMonth": 904,
     "timeYear": 957,
     "dailyMinutesDown": {}
   },
@@ -373,7 +373,7 @@
     "time": 1002,
     "timeDay": 2173,
     "timeWeek": 1145,
-    "timeMonth": 1335,
+    "timeMonth": 1067,
     "timeYear": 1002,
     "dailyMinutesDown": {}
   },
@@ -409,7 +409,7 @@
     "time": 1082,
     "timeDay": 928,
     "timeWeek": 1261,
-    "timeMonth": 1400,
+    "timeMonth": 1302,
     "timeYear": 1082,
     "dailyMinutesDown": {}
   },
@@ -445,7 +445,7 @@
     "time": 863,
     "timeDay": 1076,
     "timeWeek": 884,
-    "timeMonth": 972,
+    "timeMonth": 897,
     "timeYear": 863,
     "dailyMinutesDown": {}
   },
