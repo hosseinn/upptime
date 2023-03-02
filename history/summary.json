@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 3033,
     "timeDay": 1023,
-    "timeWeek": 878,
+    "timeWeek": 871,
     "timeMonth": 7128,
     "timeYear": 3033,
     "dailyMinutesDown": {}
@@ -228,7 +228,7 @@
     "uptimeYear": "100.00%",
     "time": 810,
     "timeDay": 995,
-    "timeWeek": 681,
+    "timeWeek": 692,
     "timeMonth": 795,
     "timeYear": 810,
     "dailyMinutesDown": {}
@@ -246,7 +246,7 @@
     "uptimeYear": "100.00%",
     "time": 880,
     "timeDay": 825,
-    "timeWeek": 715,
+    "timeWeek": 708,
     "timeMonth": 734,
     "timeYear": 880,
     "dailyMinutesDown": {}
@@ -310,7 +310,7 @@
     "url": "https://translations.documentfoundation.org/",
     "icon": "https://icons.duckduckgo.com/ip3/translations.documentfoundation.org.ico",
     "slug": "weblate-l10n",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -444,7 +444,7 @@
     "uptimeYear": "100.00%",
     "time": 864,
     "timeDay": 1003,
-    "timeWeek": 893,
+    "timeWeek": 904,
     "timeMonth": 906,
     "timeYear": 864,
     "dailyMinutesDown": {}
