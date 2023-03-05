@@ -193,7 +193,7 @@
     "time": 1802,
     "timeDay": 1788,
     "timeWeek": 1700,
-    "timeMonth": 1901,
+    "timeMonth": 1877,
     "timeYear": 1802,
     "dailyMinutesDown": {}
   },
@@ -238,7 +238,7 @@
     "url": "https://dev-downloads.libreoffice.org/",
     "icon": "https://icons.duckduckgo.com/ip3/dev-downloads.libreoffice.org.ico",
     "slug": "dev-downloads",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
