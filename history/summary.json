@@ -103,7 +103,7 @@
     "time": 2957,
     "timeDay": 756,
     "timeWeek": 976,
-    "timeMonth": 6995,
+    "timeMonth": 6944,
     "timeYear": 2957,
     "dailyMinutesDown": {}
   },
@@ -148,7 +148,7 @@
     "url": "https://wiki.documentfoundation.org/",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.documentfoundation.org.ico",
     "slug": "tdf-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -228,7 +228,7 @@
     "uptimeYear": "100.00%",
     "time": 805,
     "timeDay": 669,
-    "timeWeek": 689,
+    "timeWeek": 718,
     "timeMonth": 803,
     "timeYear": 805,
     "dailyMinutesDown": {}
@@ -264,7 +264,7 @@
     "uptimeYear": "100.00%",
     "time": 767,
     "timeDay": 654,
-    "timeWeek": 782,
+    "timeWeek": 823,
     "timeMonth": 832,
     "timeYear": 767,
     "dailyMinutesDown": {}
