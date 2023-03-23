@@ -103,7 +103,7 @@
     "time": 2878,
     "timeDay": 913,
     "timeWeek": 1065,
-    "timeMonth": 979,
+    "timeMonth": 981,
     "timeYear": 2878,
     "dailyMinutesDown": {}
   },
@@ -229,7 +229,7 @@
     "time": 803,
     "timeDay": 776,
     "timeWeek": 653,
-    "timeMonth": 725,
+    "timeMonth": 729,
     "timeYear": 803,
     "dailyMinutesDown": {}
   },
@@ -274,7 +274,7 @@
     "url": "https://gerrit.libreoffice.org/",
     "icon": "https://icons.duckduckgo.com/ip3/gerrit.libreoffice.org.ico",
     "slug": "gerrit-code-review",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -445,7 +445,7 @@
     "time": 874,
     "timeDay": 767,
     "timeWeek": 978,
-    "timeMonth": 942,
+    "timeMonth": 946,
     "timeYear": 874,
     "dailyMinutesDown": {}
   },
