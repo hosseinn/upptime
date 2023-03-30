@@ -94,7 +94,7 @@
     "url": "https://downloadarchive.documentfoundation.org/",
     "icon": "https://icons.duckduckgo.com/ip3/downloadarchive.documentfoundation.org.ico",
     "slug": "download-archives",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -121,7 +121,7 @@
     "time": 1423,
     "timeDay": 1246,
     "timeWeek": 1303,
-    "timeMonth": 1284,
+    "timeMonth": 1146,
     "timeYear": 1423,
     "dailyMinutesDown": {}
   },
@@ -211,7 +211,7 @@
     "time": 1127,
     "timeDay": 1167,
     "timeWeek": 1502,
-    "timeMonth": 1637,
+    "timeMonth": 1226,
     "timeYear": 1127,
     "dailyMinutesDown": {}
   },
