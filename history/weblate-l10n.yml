@@ -1,7 +1,7 @@
 url: https://translations.documentfoundation.org/
-status: up
-code: 200
-responseTime: 973
-lastUpdated: 2023-10-03T05:42:28.867Z
+status: down
+code: 502
+responseTime: 400
+lastUpdated: 2023-10-03T05:54:04.246Z
 startTime: 2022-08-27T03:44:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
