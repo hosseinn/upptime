@@ -32,7 +32,7 @@
     "timeDay": 828,
     "timeWeek": 924,
     "timeMonth": 897,
-    "timeYear": 1044,
+    "timeYear": 1043,
     "dailyMinutesDown": {}
   },
   {
@@ -50,7 +50,7 @@
     "timeDay": 894,
     "timeWeek": 1083,
     "timeMonth": 1264,
-    "timeYear": 1462,
+    "timeYear": 1463,
     "dailyMinutesDown": {}
   },
   {
@@ -86,7 +86,7 @@
     "timeDay": 757,
     "timeWeek": 888,
     "timeMonth": 891,
-    "timeYear": 1094,
+    "timeYear": 1095,
     "dailyMinutesDown": {}
   },
   {
@@ -184,7 +184,7 @@
     "url": "https://ci.libreoffice.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ci.libreoffice.org.ico",
     "slug": "ci-jenkins",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -212,7 +212,7 @@
     "timeDay": 780,
     "timeWeek": 932,
     "timeMonth": 947,
-    "timeYear": 1114,
+    "timeYear": 1115,
     "dailyMinutesDown": {}
   },
   {
@@ -410,7 +410,7 @@
     "timeDay": 975,
     "timeWeek": 1176,
     "timeMonth": 1226,
-    "timeYear": 1234,
+    "timeYear": 1236,
     "dailyMinutesDown": {}
   },
   {
