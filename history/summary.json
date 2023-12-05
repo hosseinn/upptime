@@ -166,7 +166,7 @@
     "url": "https://bugs.documentfoundation.org/",
     "icon": "https://icons.duckduckgo.com/ip3/bugs.documentfoundation.org.ico",
     "slug": "bugzilla",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -194,7 +194,7 @@
     "timeDay": 2000,
     "timeWeek": 1911,
     "timeMonth": 2797,
-    "timeYear": 1985,
+    "timeYear": 1986,
     "dailyMinutesDown": {}
   },
   {
