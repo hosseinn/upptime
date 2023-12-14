@@ -310,17 +310,17 @@
     "url": "https://translations.documentfoundation.org/",
     "icon": "https://icons.duckduckgo.com/ip3/translations.documentfoundation.org.ico",
     "slug": "weblate-l10n",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 959,
-    "timeDay": 694,
-    "timeWeek": 892,
-    "timeMonth": 798,
-    "timeYear": 1016,
+    "time": 962,
+    "timeDay": 1739,
+    "timeWeek": 1082,
+    "timeMonth": 846,
+    "timeYear": 1020,
     "dailyMinutesDown": {}
   },
   {
@@ -410,7 +410,7 @@
     "timeDay": 1146,
     "timeWeek": 1120,
     "timeMonth": 1392,
-    "timeYear": 1271,
+    "timeYear": 1274,
     "dailyMinutesDown": {}
   },
   {
