@@ -194,7 +194,7 @@
     "timeDay": 1382,
     "timeWeek": 1548,
     "timeMonth": 1820,
-    "timeYear": 2017,
+    "timeYear": 2015,
     "dailyMinutesDown": {}
   },
   {
@@ -292,7 +292,7 @@
     "url": "https://opengrok.libreoffice.org/",
     "icon": "https://icons.duckduckgo.com/ip3/opengrok.libreoffice.org.ico",
     "slug": "open-grok",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -317,7 +317,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 987,
-    "timeDay": 754,
+    "timeDay": 660,
     "timeWeek": 1398,
     "timeMonth": 1111,
     "timeYear": 995,
