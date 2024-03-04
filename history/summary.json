@@ -13,7 +13,7 @@
     "time": 1375,
     "timeDay": 909,
     "timeWeek": 1856,
-    "timeMonth": 1553,
+    "timeMonth": 1346,
     "timeYear": 1339,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 1508,
     "timeDay": 1292,
     "timeWeek": 2151,
-    "timeMonth": 1750,
+    "timeMonth": 1774,
     "timeYear": 1503,
     "dailyMinutesDown": {}
   },
@@ -76,7 +76,7 @@
     "url": "https://download.documentfoundation.org/",
     "icon": "https://icons.duckduckgo.com/ip3/download.documentfoundation.org.ico",
     "slug": "download-mirror-brain",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -103,7 +103,7 @@
     "time": 1948,
     "timeDay": 727,
     "timeWeek": 907,
-    "timeMonth": 826,
+    "timeMonth": 827,
     "timeYear": 897,
     "dailyMinutesDown": {}
   },
@@ -319,7 +319,7 @@
     "time": 1026,
     "timeDay": 806,
     "timeWeek": 807,
-    "timeMonth": 1300,
+    "timeMonth": 1324,
     "timeYear": 991,
     "dailyMinutesDown": {}
   },
