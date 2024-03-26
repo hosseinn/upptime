@@ -318,7 +318,7 @@
     "uptimeYear": "100.00%",
     "time": 1007,
     "timeDay": 675,
-    "timeWeek": 807,
+    "timeWeek": 843,
     "timeMonth": 756,
     "timeYear": 986,
     "dailyMinutesDown": {}
@@ -364,7 +364,7 @@
     "url": "https://elections.documentfoundation.org/",
     "icon": "https://icons.duckduckgo.com/ip3/elections.documentfoundation.org.ico",
     "slug": "the-document-foundation-elections-and-referenda",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
