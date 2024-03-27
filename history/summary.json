@@ -373,7 +373,7 @@
     "time": 973,
     "timeDay": 864,
     "timeWeek": 1013,
-    "timeMonth": 941,
+    "timeMonth": 939,
     "timeYear": 956,
     "dailyMinutesDown": {}
   },
@@ -436,7 +436,7 @@
     "url": "https://survey.documentfoundation.org/",
     "icon": "https://icons.duckduckgo.com/ip3/survey.documentfoundation.org.ico",
     "slug": "lime-survey",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
