@@ -76,17 +76,17 @@
     "url": "https://download.documentfoundation.org/",
     "icon": "https://icons.duckduckgo.com/ip3/download.documentfoundation.org.ico",
     "slug": "download-mirror-brain",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1145,
-    "timeDay": 5280,
-    "timeWeek": 1835,
-    "timeMonth": 2046,
-    "timeYear": 1092,
+    "time": 1158,
+    "timeDay": 6217,
+    "timeWeek": 2461,
+    "timeMonth": 2193,
+    "timeYear": 1110,
     "dailyMinutesDown": {}
   },
   {
@@ -122,7 +122,7 @@
     "timeDay": 879,
     "timeWeek": 931,
     "timeMonth": 1097,
-    "timeYear": 1176,
+    "timeYear": 1178,
     "dailyMinutesDown": {}
   },
   {
