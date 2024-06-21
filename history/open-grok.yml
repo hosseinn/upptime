@@ -1,7 +1,7 @@
 url: https://opengrok.libreoffice.org/
-status: down
-code: 502
-responseTime: 3108
-lastUpdated: 2024-06-21T22:40:01.541Z
+status: up
+code: 200
+responseTime: 3264
+lastUpdated: 2024-06-21T22:52:04.471Z
 startTime: 2022-08-27T03:44:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
