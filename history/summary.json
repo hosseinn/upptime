@@ -76,7 +76,7 @@
     "url": "https://download.documentfoundation.org/",
     "icon": "https://icons.duckduckgo.com/ip3/download.documentfoundation.org.ico",
     "slug": "download-mirror-brain",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -373,7 +373,7 @@
     "time": 958,
     "timeDay": 1136,
     "timeWeek": 940,
-    "timeMonth": 897,
+    "timeMonth": 904,
     "timeYear": 921,
     "dailyMinutesDown": {}
   },
