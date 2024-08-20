@@ -130,7 +130,7 @@
     "url": "https://help.libreoffice.org/",
     "icon": "https://icons.duckduckgo.com/ip3/help.libreoffice.org.ico",
     "slug": "online-help",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -156,7 +156,7 @@
     "uptimeYear": "100.00%",
     "time": 1426,
     "timeDay": 12824,
-    "timeWeek": 2977,
+    "timeWeek": 3262,
     "timeMonth": 1769,
     "timeYear": 1415,
     "dailyMinutesDown": {}
