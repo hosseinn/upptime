@@ -1,7 +1,7 @@
 url: https://elections.documentfoundation.org/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-25T12:04:38.576Z
+status: up
+code: 200
+responseTime: 4181
+lastUpdated: 2024-08-25T12:44:49.587Z
 startTime: 2022-08-27T03:44:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
