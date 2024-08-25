@@ -1,7 +1,7 @@
 url: https://auth.documentfoundation.org/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-25T11:29:24.880Z
+status: up
+code: 200
+responseTime: 4138
+lastUpdated: 2024-08-25T11:43:15.612Z
 startTime: 2022-08-27T03:44:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
