@@ -14,7 +14,7 @@
     "timeDay": 969,
     "timeWeek": 1059,
     "timeMonth": 2539,
-    "timeYear": 1470,
+    "timeYear": 1471,
     "dailyMinutesDown": {}
   },
   {
@@ -50,7 +50,7 @@
     "timeDay": 1786,
     "timeWeek": 1436,
     "timeMonth": 2737,
-    "timeYear": 2990,
+    "timeYear": 3002,
     "dailyMinutesDown": {}
   },
   {
@@ -104,7 +104,7 @@
     "timeDay": 526,
     "timeWeek": 703,
     "timeMonth": 1307,
-    "timeYear": 882,
+    "timeYear": 881,
     "dailyMinutesDown": {}
   },
   {
@@ -166,7 +166,7 @@
     "url": "https://bugs.documentfoundation.org/",
     "icon": "https://icons.duckduckgo.com/ip3/bugs.documentfoundation.org.ico",
     "slug": "bugzilla",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -194,7 +194,7 @@
     "timeDay": 1816,
     "timeWeek": 2556,
     "timeMonth": 3732,
-    "timeYear": 3267,
+    "timeYear": 3271,
     "dailyMinutesDown": {}
   },
   {
@@ -374,7 +374,7 @@
     "timeDay": 682,
     "timeWeek": 767,
     "timeMonth": 1320,
-    "timeYear": 956,
+    "timeYear": 954,
     "dailyMinutesDown": {}
   },
   {
@@ -446,7 +446,7 @@
     "timeDay": 821,
     "timeWeek": 798,
     "timeMonth": 1788,
-    "timeYear": 1009,
+    "timeYear": 1011,
     "dailyMinutesDown": {}
   },
   {
