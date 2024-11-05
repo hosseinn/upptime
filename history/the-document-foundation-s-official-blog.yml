@@ -1,7 +1,7 @@
 url: https://blog.documentfoundation.org/
-status: up
-code: 200
-responseTime: 1178
-lastUpdated: 2024-11-04T23:10:45.271Z
+status: down
+code: 500
+responseTime: 597
+lastUpdated: 2024-11-05T14:25:32.309Z
 startTime: 2022-08-27T03:44:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
