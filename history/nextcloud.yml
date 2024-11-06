@@ -1,7 +1,7 @@
 url: https://nextcloud.documentfoundation.org/core/js/oc.js
-status: down
-code: 502
-responseTime: 479
-lastUpdated: 2024-11-06T11:37:38.949Z
+status: up
+code: 200
+responseTime: 586
+lastUpdated: 2024-11-06T12:14:46.589Z
 startTime: 2022-08-27T03:44:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
