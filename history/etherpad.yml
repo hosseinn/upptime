@@ -1,7 +1,7 @@
 url: https://pad.documentfoundation.org/
-status: up
-code: 200
-responseTime: 593
-lastUpdated: 2024-12-28T23:10:31.483Z
+status: down
+code: 502
+responseTime: 423
+lastUpdated: 2024-12-29T15:29:13.471Z
 startTime: 2022-08-27T03:44:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
