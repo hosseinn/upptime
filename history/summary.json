@@ -50,7 +50,7 @@
     "timeDay": 1246,
     "timeWeek": 1473,
     "timeMonth": 1427,
-    "timeYear": 3318,
+    "timeYear": 3321,
     "dailyMinutesDown": {}
   },
   {
@@ -274,7 +274,7 @@
     "url": "https://gerrit.libreoffice.org/",
     "icon": "https://icons.duckduckgo.com/ip3/gerrit.libreoffice.org.ico",
     "slug": "gerrit-code-review",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -374,7 +374,7 @@
     "timeDay": 492,
     "timeWeek": 612,
     "timeMonth": 581,
-    "timeYear": 868,
+    "timeYear": 869,
     "dailyMinutesDown": {}
   },
   {
