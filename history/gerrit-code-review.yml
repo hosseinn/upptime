@@ -1,7 +1,7 @@
 url: https://gerrit.libreoffice.org/
-status: down
-code: 502
-responseTime: 488
-lastUpdated: 2025-03-15T05:30:43.317Z
+status: up
+code: 200
+responseTime: 691
+lastUpdated: 2025-03-15T05:42:48.837Z
 startTime: 2022-08-27T03:44:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
