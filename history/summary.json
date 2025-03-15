@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 1303,
     "timeDay": 1224,
-    "timeWeek": 1274,
+    "timeWeek": 1280,
     "timeMonth": 1239,
     "timeYear": 1350,
     "dailyMinutesDown": {}
@@ -274,7 +274,7 @@
     "url": "https://gerrit.libreoffice.org/",
     "icon": "https://icons.duckduckgo.com/ip3/gerrit.libreoffice.org.ico",
     "slug": "gerrit-code-review",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
