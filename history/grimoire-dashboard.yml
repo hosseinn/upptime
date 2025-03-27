@@ -1,7 +1,7 @@
 url: https://dashboard.documentfoundation.org/
-status: up
-code: 200
-responseTime: 974
-lastUpdated: 2025-03-26T23:11:32.941Z
+status: down
+code: 502
+responseTime: 3791
+lastUpdated: 2025-03-27T06:48:09.630Z
 startTime: 2022-08-27T03:44:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
