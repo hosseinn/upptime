@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1356,
     "timeDay": 1087,
-    "timeWeek": 1222,
+    "timeWeek": 1216,
     "timeMonth": 1213,
     "timeYear": 1332,
     "dailyMinutesDown": {}
@@ -86,7 +86,7 @@
     "timeDay": 1267,
     "timeWeek": 1018,
     "timeMonth": 1001,
-    "timeYear": 1061,
+    "timeYear": 1052,
     "dailyMinutesDown": {}
   },
   {
@@ -119,8 +119,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1404,
-    "timeDay": 1558,
-    "timeWeek": 1450,
+    "timeDay": 1605,
+    "timeWeek": 1451,
     "timeMonth": 1427,
     "timeYear": 1431,
     "dailyMinutesDown": {}
@@ -418,17 +418,17 @@
     "url": "https://redmine.documentfoundation.org/",
     "icon": "https://icons.duckduckgo.com/ip3/redmine.documentfoundation.org.ico",
     "slug": "the-document-foundation-redmine",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 582,
-    "timeDay": 510,
-    "timeWeek": 566,
-    "timeMonth": 586,
-    "timeYear": 603,
+    "timeDay": 469,
+    "timeWeek": 549,
+    "timeMonth": 581,
+    "timeYear": 602,
     "dailyMinutesDown": {}
   },
   {
