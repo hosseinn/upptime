@@ -14,7 +14,7 @@
     "timeDay": 1090,
     "timeWeek": 1111,
     "timeMonth": 1138,
-    "timeYear": 1330,
+    "timeYear": 1331,
     "dailyMinutesDown": {}
   },
   {
@@ -50,7 +50,7 @@
     "timeDay": 1226,
     "timeWeek": 1279,
     "timeMonth": 1357,
-    "timeYear": 1948,
+    "timeYear": 1950,
     "dailyMinutesDown": {}
   },
   {
@@ -112,16 +112,16 @@
     "url": "https://extensions.libreoffice.org/",
     "icon": "https://icons.duckduckgo.com/ip3/extensions.libreoffice.org.ico",
     "slug": "libre-office-extensions-and-templates",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1415,
-    "timeDay": 1511,
+    "timeDay": 1527,
     "timeWeek": 1418,
-    "timeMonth": 1396,
+    "timeMonth": 1395,
     "timeYear": 1433,
     "dailyMinutesDown": {}
   },
