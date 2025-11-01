@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 1449,
     "timeDay": 1330,
-    "timeWeek": 1355,
+    "timeWeek": 1351,
     "timeMonth": 1563,
     "timeYear": 1446,
     "dailyMinutesDown": {}
@@ -418,7 +418,7 @@
     "url": "https://redmine.documentfoundation.org/",
     "icon": "https://icons.duckduckgo.com/ip3/redmine.documentfoundation.org.ico",
     "slug": "the-document-foundation-redmine",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
