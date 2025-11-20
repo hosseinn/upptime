@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 1456,
     "timeDay": 1359,
-    "timeWeek": 1709,
+    "timeWeek": 1705,
     "timeMonth": 1486,
     "timeYear": 1453,
     "dailyMinutesDown": {}
@@ -148,7 +148,7 @@
     "url": "https://wiki.documentfoundation.org/",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.documentfoundation.org.ico",
     "slug": "tdf-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
