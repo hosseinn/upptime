@@ -112,7 +112,7 @@
     "url": "https://extensions.libreoffice.org/",
     "icon": "https://icons.duckduckgo.com/ip3/extensions.libreoffice.org.ico",
     "slug": "libre-office-extensions-and-templates",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -121,7 +121,7 @@
     "time": 1446,
     "timeDay": 1346,
     "timeWeek": 1414,
-    "timeMonth": 1462,
+    "timeMonth": 1463,
     "timeYear": 1452,
     "dailyMinutesDown": {}
   },
