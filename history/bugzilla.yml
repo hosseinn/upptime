@@ -1,7 +1,7 @@
 url: https://bugs.documentfoundation.org/
-status: up
-code: 200
-responseTime: 22304
-lastUpdated: 2026-01-19T15:01:28.763Z
+status: down
+code: 502
+responseTime: 625
+lastUpdated: 2026-01-19T17:01:40.621Z
 startTime: 2022-08-27T03:44:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
