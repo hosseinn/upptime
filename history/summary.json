@@ -112,7 +112,7 @@
     "url": "https://extensions.libreoffice.org/",
     "icon": "https://icons.duckduckgo.com/ip3/extensions.libreoffice.org.ico",
     "slug": "libre-office-extensions-and-templates",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -121,7 +121,7 @@
     "time": 1424,
     "timeDay": 1208,
     "timeWeek": 1210,
-    "timeMonth": 1305,
+    "timeMonth": 1304,
     "timeYear": 1430,
     "dailyMinutesDown": {}
   },
@@ -166,7 +166,7 @@
     "url": "https://bugs.documentfoundation.org/",
     "icon": "https://icons.duckduckgo.com/ip3/bugs.documentfoundation.org.ico",
     "slug": "bugzilla",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -320,7 +320,7 @@
     "timeDay": 662,
     "timeWeek": 778,
     "timeMonth": 789,
-    "timeYear": 1039,
+    "timeYear": 1038,
     "dailyMinutesDown": {}
   },
   {
