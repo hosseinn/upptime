@@ -1,7 +1,7 @@
 url: https://redmine.documentfoundation.org/
-status: up
-code: 200
-responseTime: 576
-lastUpdated: 2026-04-16T05:17:07.772Z
+status: down
+code: 502
+responseTime: 418
+lastUpdated: 2026-04-16T21:36:48.852Z
 startTime: 2022-08-27T03:44:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
