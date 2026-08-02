@@ -14,7 +14,7 @@
     "timeDay": 811,
     "timeWeek": 960,
     "timeMonth": 927,
-    "timeYear": 1043,
+    "timeYear": 1042,
     "dailyMinutesDown": {}
   },
   {
@@ -50,7 +50,7 @@
     "timeDay": 1328,
     "timeWeek": 1203,
     "timeMonth": 1193,
-    "timeYear": 1237,
+    "timeYear": 1236,
     "dailyMinutesDown": {}
   },
   {
@@ -68,7 +68,7 @@
     "timeDay": 1162,
     "timeWeek": 1358,
     "timeMonth": 1428,
-    "timeYear": 1395,
+    "timeYear": 1393,
     "dailyMinutesDown": {}
   },
   {
@@ -86,7 +86,7 @@
     "timeDay": 1225,
     "timeWeek": 1171,
     "timeMonth": 934,
-    "timeYear": 984,
+    "timeYear": 983,
     "dailyMinutesDown": {}
   },
   {
@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 1410,
     "timeDay": 1195,
-    "timeWeek": 1234,
+    "timeWeek": 1233,
     "timeMonth": 1235,
     "timeYear": 1411,
     "dailyMinutesDown": {}
@@ -176,7 +176,7 @@
     "timeDay": 983,
     "timeWeek": 971,
     "timeMonth": 978,
-    "timeYear": 1168,
+    "timeYear": 1167,
     "dailyMinutesDown": {}
   },
   {
@@ -184,17 +184,17 @@
     "url": "https://ci.libreoffice.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ci.libreoffice.org.ico",
     "slug": "ci-jenkins",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2561,
+    "time": 2559,
     "timeDay": 1485,
     "timeWeek": 1575,
     "timeMonth": 1550,
-    "timeYear": 1883,
+    "timeYear": 1881,
     "dailyMinutesDown": {}
   },
   {
@@ -392,7 +392,7 @@
     "timeDay": 500,
     "timeWeek": 554,
     "timeMonth": 544,
-    "timeYear": 551,
+    "timeYear": 550,
     "dailyMinutesDown": {}
   },
   {
@@ -410,7 +410,7 @@
     "timeDay": 1352,
     "timeWeek": 1401,
     "timeMonth": 1390,
-    "timeYear": 1397,
+    "timeYear": 1396,
     "dailyMinutesDown": {}
   },
   {
@@ -464,7 +464,7 @@
     "timeDay": 537,
     "timeWeek": 649,
     "timeMonth": 557,
-    "timeYear": 559,
+    "timeYear": 558,
     "dailyMinutesDown": {}
   }
 ]
