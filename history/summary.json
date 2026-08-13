@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 1409,
     "timeDay": 1248,
-    "timeWeek": 1262,
+    "timeWeek": 1253,
     "timeMonth": 1248,
     "timeYear": 1410,
     "dailyMinutesDown": {}
@@ -192,7 +192,7 @@
     "uptimeYear": "100.00%",
     "time": 2420,
     "timeDay": 1191,
-    "timeWeek": 1262,
+    "timeWeek": 1247,
     "timeMonth": 1410,
     "timeYear": 1830,
     "dailyMinutesDown": {}
@@ -400,7 +400,7 @@
     "url": "https://piwik.documentfoundation.org/",
     "icon": "https://icons.duckduckgo.com/ip3/piwik.documentfoundation.org.ico",
     "slug": "matomo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
