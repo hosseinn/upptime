@@ -121,7 +121,7 @@
     "time": 1407,
     "timeDay": 1217,
     "timeWeek": 1252,
-    "timeMonth": 1256,
+    "timeMonth": 1253,
     "timeYear": 1407,
     "dailyMinutesDown": {}
   },
@@ -400,7 +400,7 @@
     "url": "https://piwik.documentfoundation.org/",
     "icon": "https://icons.duckduckgo.com/ip3/piwik.documentfoundation.org.ico",
     "slug": "matomo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
