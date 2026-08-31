@@ -86,7 +86,7 @@
     "timeDay": 977,
     "timeWeek": 1950,
     "timeMonth": 1147,
-    "timeYear": 1002,
+    "timeYear": 986,
     "dailyMinutesDown": {}
   },
   {
@@ -400,17 +400,17 @@
     "url": "https://piwik.documentfoundation.org/",
     "icon": "https://icons.duckduckgo.com/ip3/piwik.documentfoundation.org.ico",
     "slug": "matomo",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1717,
-    "timeDay": 1653,
-    "timeWeek": 6589,
-    "timeMonth": 4628,
-    "timeYear": 1872,
+    "timeDay": 1386,
+    "timeWeek": 6224,
+    "timeMonth": 4567,
+    "timeYear": 1870,
     "dailyMinutesDown": {}
   },
   {
