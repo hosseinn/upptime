@@ -121,7 +121,7 @@
     "time": 1406,
     "timeDay": 1235,
     "timeWeek": 1411,
-    "timeMonth": 1321,
+    "timeMonth": 1323,
     "timeYear": 1406,
     "dailyMinutesDown": {}
   },
@@ -166,7 +166,7 @@
     "url": "https://bugs.documentfoundation.org/",
     "icon": "https://icons.duckduckgo.com/ip3/bugs.documentfoundation.org.ico",
     "slug": "bugzilla",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
