@@ -4,16 +4,16 @@
     "url": "https://www.libreoffice.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.libreoffice.org.ico",
     "slug": "libre-office-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1060,
-    "timeDay": 1133,
-    "timeWeek": 901,
-    "timeMonth": 996,
+    "timeDay": 1202,
+    "timeWeek": 947,
+    "timeMonth": 1004,
     "timeYear": 1024,
     "dailyMinutesDown": {}
   },
@@ -68,7 +68,7 @@
     "timeDay": 1343,
     "timeWeek": 1231,
     "timeMonth": 1367,
-    "timeYear": 1382,
+    "timeYear": 1383,
     "dailyMinutesDown": {}
   },
   {
@@ -86,7 +86,7 @@
     "timeDay": 889,
     "timeWeek": 805,
     "timeMonth": 995,
-    "timeYear": 975,
+    "timeYear": 976,
     "dailyMinutesDown": {}
   },
   {
@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 1398,
     "timeDay": 1192,
-    "timeWeek": 1256,
+    "timeWeek": 1231,
     "timeMonth": 1384,
     "timeYear": 1398,
     "dailyMinutesDown": {}
@@ -176,7 +176,7 @@
     "timeDay": 929,
     "timeWeek": 904,
     "timeMonth": 1005,
-    "timeYear": 1323,
+    "timeYear": 1324,
     "dailyMinutesDown": {}
   },
   {
@@ -194,7 +194,7 @@
     "timeDay": 1208,
     "timeWeek": 1282,
     "timeMonth": 1363,
-    "timeYear": 1626,
+    "timeYear": 1627,
     "dailyMinutesDown": {}
   },
   {
@@ -212,7 +212,7 @@
     "timeDay": 1327,
     "timeWeek": 1219,
     "timeMonth": 1373,
-    "timeYear": 1185,
+    "timeYear": 1186,
     "dailyMinutesDown": {}
   },
   {
@@ -302,7 +302,7 @@
     "timeDay": 742,
     "timeWeek": 689,
     "timeMonth": 2472,
-    "timeYear": 1027,
+    "timeYear": 1028,
     "dailyMinutesDown": {}
   },
   {
@@ -410,7 +410,7 @@
     "timeDay": 1511,
     "timeWeek": 1330,
     "timeMonth": 1423,
-    "timeYear": 1868,
+    "timeYear": 1870,
     "dailyMinutesDown": {}
   },
   {
@@ -428,7 +428,7 @@
     "timeDay": 563,
     "timeWeek": 524,
     "timeMonth": 559,
-    "timeYear": 624,
+    "timeYear": 625,
     "dailyMinutesDown": {}
   },
   {
@@ -464,7 +464,7 @@
     "timeDay": 584,
     "timeWeek": 515,
     "timeMonth": 579,
-    "timeYear": 565,
+    "timeYear": 566,
     "dailyMinutesDown": {}
   }
 ]
