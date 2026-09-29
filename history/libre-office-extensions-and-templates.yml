@@ -1,7 +1,7 @@
 url: https://extensions.libreoffice.org/
-status: up
-code: 200
-responseTime: 1181
-lastUpdated: 2026-09-28T01:19:36.162Z
+status: down
+code: 500
+responseTime: 424
+lastUpdated: 2026-09-29T02:25:52.261Z
 startTime: 2022-08-27T03:44:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
